@@ -1,0 +1,27 @@
+/.project
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
+.project
+.factorypath
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.class
+*.log
