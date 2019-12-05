@@ -1,1 +1,1 @@
-Example of using spring data JPA call postgres stored procedure(function).
+# Example of using spring data JPA call postgres stored procedure (function).

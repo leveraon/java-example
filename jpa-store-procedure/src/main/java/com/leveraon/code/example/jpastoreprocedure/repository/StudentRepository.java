@@ -23,7 +23,7 @@ import com.leveraon.code.example.jpastoreprocedure.entity.Student;
 @Repository
 public interface StudentRepository extends CrudRepository<Student, UUID> {
 
-	@Query(value = "select * from  example.list_students_each_class()", nativeQuery = true)
+	@Query(value = "SELECT * FROM  EXAMPLE.LIST_STUDENTS_EACH_CLASS()", nativeQuery = true)
 	public List<Map<String, String>> listStudentsByClass();
 
 }
