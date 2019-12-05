@@ -1,4 +1,4 @@
-package com.leveraon.code.example.jpastoreprocedure;
+package com.leveraon.code.example.jpa.sp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

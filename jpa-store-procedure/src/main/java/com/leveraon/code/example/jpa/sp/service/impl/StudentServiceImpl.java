@@ -3,7 +3,7 @@
  *
  * 2015 - 2019 ALL RIGHTS RESERVED
  */
-package com.leveraon.code.example.jpastoreprocedure.service.impl;
+package com.leveraon.code.example.jpa.sp.service.impl;
 
 import java.util.List;
 import java.util.Map;
@@ -12,9 +12,9 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.leveraon.code.example.jpastoreprocedure.dto.DataModel;
-import com.leveraon.code.example.jpastoreprocedure.repository.StudentRepository;
-import com.leveraon.code.example.jpastoreprocedure.service.StudentService;
+import com.leveraon.code.example.jpa.sp.dto.DataModel;
+import com.leveraon.code.example.jpa.sp.repository.StudentRepository;
+import com.leveraon.code.example.jpa.sp.service.StudentService;
 
 /**
  * @author yves.sang

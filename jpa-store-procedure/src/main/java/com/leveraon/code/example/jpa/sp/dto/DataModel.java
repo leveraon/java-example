@@ -3,7 +3,7 @@
  *
  * 2015 - 2019 ALL RIGHTS RESERVED
  */
-package com.leveraon.code.example.jpastoreprocedure.dto;
+package com.leveraon.code.example.jpa.sp.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;

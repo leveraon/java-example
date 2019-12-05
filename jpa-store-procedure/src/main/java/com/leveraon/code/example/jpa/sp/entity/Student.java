@@ -1,4 +1,4 @@
-package com.leveraon.code.example.jpastoreprocedure.entity;
+package com.leveraon.code.example.jpa.sp.entity;
 
 import java.io.Serializable;
 import java.util.UUID;

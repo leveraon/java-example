@@ -13,7 +13,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.leveraon.code.example.jpastoreprocedure.dto.DataModel;
+import com.leveraon.code.example.jpa.sp.dto.DataModel;
+import com.leveraon.code.example.jpa.sp.service.StudentService;
 
 import lombok.extern.slf4j.Slf4j;
 

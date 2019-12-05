@@ -3,7 +3,7 @@
  *
  * 2015 - 2019 ALL RIGHTS RESERVED
  */
-package com.leveraon.code.example.jpastoreprocedure.repository;
+package com.leveraon.code.example.jpa.sp.repository;
 
 import java.util.List;
 import java.util.Map;
@@ -13,7 +13,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.leveraon.code.example.jpastoreprocedure.entity.Student;
+import com.leveraon.code.example.jpa.sp.entity.Student;
 
 /**
  * @author yves.sang

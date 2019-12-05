@@ -3,7 +3,7 @@
  *
  * 2015 - 2019 ALL RIGHTS RESERVED
  */
-package com.leveraon.code.example.jpastoreprocedure.api;
+package com.leveraon.code.example.jpa.sp.api;
 
 import java.util.List;
 
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.leveraon.code.example.jpastoreprocedure.dto.DataModel;
-import com.leveraon.code.example.jpastoreprocedure.service.StudentService;
+import com.leveraon.code.example.jpa.sp.dto.DataModel;
+import com.leveraon.code.example.jpa.sp.service.StudentService;
 
 /**
  * @author yves.sang
